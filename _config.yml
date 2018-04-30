@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 description: CSV and Excel datasets of SEC Form 13F securities, published quarterly.
-show_downloads: "false"
+show_downloads: false
+google_analytics: UA-118405596-1
