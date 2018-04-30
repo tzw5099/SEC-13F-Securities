@@ -1,4 +1,4 @@
-## Welcome to 13F Data
+## SEC Form 13F Securities lists
 
 Looking for the list of Section 13(f) Securities in CSV or Excel format? Well, here it is. Use the below links to find the right file for your needs. Use these dataset for compiling quarterly reports for SEC compliance purposes or for anything else. 
 
