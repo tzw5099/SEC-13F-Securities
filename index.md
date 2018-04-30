@@ -1,8 +1,19 @@
 ## Welcome to 13F Data
 
-Get the lists of data you need to file on time and without the extra headaches of extracting securities data for quarterly reports to the United States Securities & Exchange Commission (SEC). Database friendly extracts of Form 13F that keep your organization on track.
+Looking for the list of Section 13(f) Securities in CSV or Excel format? Well, here it is. Use the below links to find the right file for your needs. Use these dataset for compiling quarterly reports for SEC compliance purposes or for anything else. 
 
-### Markdown
+The original data is available at the [SEC Website](https://www.sec.gov/divisions/investment/13flists.htm) only has the forms in PDF format. We convert them to CSV and Excel (XLSX) format for everyone to use.
+
+
+### How it's done
+
+Every quarter as they're published, we download the SEC's List of Section 13(f) securities, which are only published in PDF format. Then, we carefully extract the data and convert it to a CSV and Excel (XLSX) format for you to use. The extracts are identical in content to the original PDFs, but are in a Excel and database-friendly format.
+
+The CSV and Excel formatted Form 13F securities data are suitable for use when compiling SEC 13F-HR, SEC 13-HR/A, SEC 13F-NT, and SEC 13-NT/A forms.
+
+### Downloadable links
+
+Just click on the link for the type of file for the period you need.
 
 Title|Quarter|PDF|CSV|XLSX
 ---|---|---|---|---
@@ -40,31 +51,6 @@ SEC Form 13F|2011Q4|[PDF](pdf/13flist2011q4.pdf)|[CSV](csv/13flist2011q4.csv)|[X
 SEC Form 13F|2017Q3|[PDF](pdf/13flist2017q3.pdf)|[CSV](csv/13flist2017q3.csv)|[XLSX](xlsx/13flist2017q3.xlsx)
 SEC Form 13F|2015Q1|[PDF](pdf/13flist2015q1.pdf)|[CSV](csv/13flist2015q1.csv)|[XLSX](xlsx/13flist2015q1.xlsx)
 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/end0/13fdata/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Looking for some more help or custom extracts? I regularly use and manipulate SEC Form 13F data. Get in touch at <gene.dolgin@gmail.com> and I'll help you out...
