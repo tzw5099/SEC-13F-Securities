@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to 13F Data
 
-You can use the [editor on GitHub](https://github.com/end0/13fdata/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Get the lists of data you need to file on time and without the extra headaches of extracting securities data for quarterly reports to the United States Securities & Exchange Commission (SEC). Database friendly extracts of Form 13F that keep your organization on track.
 
 ### Markdown
 
